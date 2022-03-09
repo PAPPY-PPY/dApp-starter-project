@@ -257,6 +257,9 @@ const App = () => {
                 </div>
               );
             })}
+        <div className="bio">
+          おじさんなので眩しい色合いだと目が疲れるんですorz
+        </div>
       </div>
     </div>
   );
